@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2010)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: bmc_article.aux
+The style file: bmc_article.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=5001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: bmc_article.bib
+You've used 13 entries,
+            3603 wiz_defined-function locations,
+            790 strings with 7314 characters,
+and the built_in function-call counts, 27247 in all, are:
+= -- 2526
+> -- 115
+< -- 45
++ -- 137
+- -- 34
+* -- 3001
+:= -- 4771
+add.period$ -- 26
+call.type$ -- 13
+change.case$ -- 34
+chr.to.int$ -- 0
+cite$ -- 13
+duplicate$ -- 1554
+empty$ -- 2220
+format.name$ -- 137
+if$ -- 5418
+int.to.chr$ -- 0
+int.to.str$ -- 26
+missing$ -- 575
+newline$ -- 233
+num.names$ -- 27
+pop$ -- 434
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 26
+skip$ -- 256
+stack$ -- 0
+substring$ -- 4616
+swap$ -- 445
+text.length$ -- 26
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 134
+width$ -- 15
+write$ -- 389

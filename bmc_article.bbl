@@ -1,0 +1,268 @@
+%% BioMed_Central_Bib_Style_v1.01
+
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{[#1]}
+\providecommand{\urlprefix}{}
+
+\bibitem{Steinbeck:2001}
+Steinbeck C: \textbf{The automation of natural product structure elucidation}.
+  \emph{Current opinion in drug discovery {\&} development} 2001,
+  \textbf{4}(3):338--342.
+
+\bibitem{steinbeck2003}
+Steinbeck C: \textbf{Computer-Assisted Structure Elucidation}. In
+  \emph{Handbook of Chemoinformatics}. Edited by Gasteiger J, Engel T,
+  Weinheim: John Wiley {\&} Sons 2003:1378--1406.
+
+\bibitem{Peironcely:2011fm}
+Peironcely JE, Reijmers T, Coulier L, Bender A, Hankemeier T:
+  \textbf{Understanding and classifying metabolite space and
+  metabolite-likeness.} \emph{PloS one} 2011, \textbf{6}(12):e28966.
+
+\bibitem{Jayaseelan}
+Jayaseelan K, Moreno P, Truszkowski A, Ertl P, Steinbeck C: \textbf{Natural
+  product-likeness score revisited: an open-source, open-data implementation.}
+  \emph{BMC Bioinformatics} 2012, \textbf{13}:106.
+
+\bibitem{Steinbeck}
+Steinbeck C: \textbf{SENECA: A platform-independent, distributed, and parallel
+  system for computer-assisted structure elucidation in organic chemistry.}
+  \emph{Journal of chemical information and computer sciences} 2001,
+  \textbf{41}(6):1500--1507.
+
+\bibitem{Han}
+Han Y, Steinbeck C: \textbf{Evolutionary-Algorithm-Based Strategy for
+  Computer-Assisted Structure Elucidation}. \emph{Journal of Chemical
+  Information and Modeling} 2004, \textbf{44}(2):489--498.
+
+\bibitem{Luttmann}
+Steinbeck C, Han YQ, Kuhn S, Horlacher O, Luttmann E, Willighagen E:
+  \textbf{The Chemistry Development Kit (CDK): An open-source Java library for
+  chemo- and bioinformatics}. \emph{Journal of Chemical Information and
+  Computer Sciences} 2003, \textbf{43(2)}:493--500.
+
+\bibitem{Guha}
+Steinbeck C, Hoppe C, Kuhn S, Guha R, Willighagen EL: \textbf{Recent
+  Developments of The Chemistry Development Kit (CDK) - An Open-Source Java
+  Library for Chemo- and Bioinformatics}. \emph{Current pharmaceutical design}
+  2006, \textbf{12(17)}:2111--2120.
+
+\bibitem{Faulon}
+Faulon JL: \textbf{Stochastic Generator of Chemical Structure. 2. Using
+  Simulated Annealing To Search the Space of Constitutional Isomers}.
+  \emph{Journal of chemical information and computer sciences} 1997,
+  \textbf{36}:731--740.
+
+\bibitem{Kuhn}
+Steinbeck C, Kuhn S: \textbf{NMRShiftDB - compound identification and structure
+  elucidation support through a free community-built web database.}
+  \emph{Phytochemistry} 2004, \textbf{65}(19):2711--2717.
+
+\bibitem{Bremser:1977}
+Bremser W: \textbf{HOSE - novel substructure code}. \emph{Anal Chem Acta} 1977,
+  \textbf{103}:355--365.
+
+\bibitem{Bremser:1985}
+Bremser W: \textbf{Expectation Ranges of 13 C NMR Chemical Shifts}. \emph{Magn.
+  Reson. Chem} 1985, \textbf{23}:271--275.
+
+\bibitem{Nuzillard}
+Nuzillard JM: \textbf{Quick meth for Anti-Bredt Structure Dectection}. \emph{J.
+  Chem. Inf. Comput. Sci} 1994, :723--724.
+
+\end{thebibliography}
+
+\newcommand{\BMCxmlcomment}[1]{}
+
+\BMCxmlcomment{
+
+<refgrp>
+
+<bibl id="B1">
+  <title><p>The automation of natural product structure elucidation</p></title>
+  <aug>
+    <au><snm>Steinbeck</snm><fnm>C</fnm></au>
+  </aug>
+  <source>Current opinion in drug discovery {\&} development</source>
+  <pubdate>2001</pubdate>
+  <volume>4</volume>
+  <issue>3</issue>
+  <fpage>338</fpage>
+  <lpage>-342</lpage>
+</bibl>
+
+<bibl id="B2">
+  <title><p>Computer-Assisted Structure Elucidation</p></title>
+  <aug>
+    <au><snm>Steinbeck</snm><fnm>C</fnm></au>
+  </aug>
+  <source>Handbook of Chemoinformatics</source>
+  <publisher>Weinheim: John Wiley {\&} Sons</publisher>
+  <editor>Gasteiger, Johann and Engel, Thomas</editor>
+  <pubdate>2003</pubdate>
+  <fpage>1378</fpage>
+  <lpage>-1406</lpage>
+</bibl>
+
+<bibl id="B3">
+  <title><p>Understanding and classifying metabolite space and
+  metabolite-likeness.</p></title>
+  <aug>
+    <au><snm>Peironcely</snm><fnm>JE</fnm></au>
+    <au><snm>Reijmers</snm><fnm>T</fnm></au>
+    <au><snm>Coulier</snm><fnm>L</fnm></au>
+    <au><snm>Bender</snm><fnm>A</fnm></au>
+    <au><snm>Hankemeier</snm><fnm>T</fnm></au>
+  </aug>
+  <source>PloS one</source>
+  <pubdate>2011</pubdate>
+  <volume>6</volume>
+  <issue>12</issue>
+  <fpage>e28966</fpage>
+</bibl>
+
+<bibl id="B4">
+  <title><p>Natural product-likeness score revisited: an open-source, open-data
+  implementation.</p></title>
+  <aug>
+    <au><snm>Jayaseelan</snm><fnm>K</fnm></au>
+    <au><snm>Moreno</snm><fnm>P</fnm></au>
+    <au><snm>Truszkowski</snm><fnm>A</fnm></au>
+    <au><snm>Ertl</snm><fnm>P</fnm></au>
+    <au><snm>Steinbeck</snm><fnm>C</fnm></au>
+  </aug>
+  <source>BMC Bioinformatics</source>
+  <pubdate>2012</pubdate>
+  <volume>13</volume>
+  <fpage>106</fpage>
+</bibl>
+
+<bibl id="B5">
+  <title><p>SENECA: A platform-independent, distributed, and parallel system
+  for computer-assisted structure elucidation in organic chemistry.</p></title>
+  <aug>
+    <au><snm>Steinbeck</snm><fnm>C</fnm></au>
+  </aug>
+  <source>Journal of chemical information and computer sciences</source>
+  <pubdate>2001</pubdate>
+  <volume>41</volume>
+  <issue>6</issue>
+  <fpage>1500</fpage>
+  <lpage>-1507</lpage>
+</bibl>
+
+<bibl id="B6">
+  <title><p>Evolutionary-Algorithm-Based Strategy for Computer-Assisted
+  Structure Elucidation</p></title>
+  <aug>
+    <au><snm>Han</snm><fnm>Y</fnm></au>
+    <au><snm>Steinbeck</snm><fnm>C</fnm></au>
+  </aug>
+  <source>Journal of Chemical Information and Modeling</source>
+  <pubdate>2004</pubdate>
+  <volume>44</volume>
+  <issue>2</issue>
+  <fpage>489</fpage>
+  <lpage>-498</lpage>
+</bibl>
+
+<bibl id="B7">
+  <title><p>The Chemistry Development Kit (CDK): An open-source Java library
+  for chemo- and bioinformatics</p></title>
+  <aug>
+    <au><snm>Steinbeck</snm><fnm>C</fnm></au>
+    <au><snm>Han</snm><fnm>Y. Q</fnm></au>
+    <au><snm>Kuhn</snm><fnm>S</fnm></au>
+    <au><snm>Horlacher</snm><fnm>O</fnm></au>
+    <au><snm>Luttmann</snm><fnm>E</fnm></au>
+    <au><snm>Willighagen</snm><fnm>E</fnm></au>
+  </aug>
+  <source>Journal of Chemical Information and Computer Sciences</source>
+  <pubdate>2003</pubdate>
+  <volume>43(2)</volume>
+  <fpage>493</fpage>
+  <lpage>500</lpage>
+</bibl>
+
+<bibl id="B8">
+  <title><p>Recent Developments of The Chemistry Development Kit (CDK) - An
+  Open-Source Java Library for Chemo- and Bioinformatics</p></title>
+  <aug>
+    <au><snm>Steinbeck</snm><fnm>C</fnm></au>
+    <au><snm>Hoppe</snm><fnm>C</fnm></au>
+    <au><snm>Kuhn</snm><fnm>S</fnm></au>
+    <au><snm>Guha</snm><fnm>R</fnm></au>
+    <au><snm>Willighagen</snm><fnm>E. L.</fnm></au>
+  </aug>
+  <source>Current pharmaceutical design</source>
+  <pubdate>2006</pubdate>
+  <volume>12(17)</volume>
+  <fpage>2111</fpage>
+  <lpage>2120</lpage>
+</bibl>
+
+<bibl id="B9">
+  <title><p>Stochastic Generator of Chemical Structure. 2. Using Simulated
+  Annealing To Search the Space of Constitutional Isomers</p></title>
+  <aug>
+    <au><snm>Faulon</snm><fnm>JL</fnm></au>
+  </aug>
+  <source>Journal of chemical information and computer sciences</source>
+  <pubdate>1997</pubdate>
+  <volume>36</volume>
+  <fpage>731</fpage>
+  <lpage>740</lpage>
+</bibl>
+
+<bibl id="B10">
+  <title><p>NMRShiftDB - compound identification and structure elucidation
+  support through a free community-built web database.</p></title>
+  <aug>
+    <au><snm>Steinbeck</snm><fnm>C</fnm></au>
+    <au><snm>Kuhn</snm><fnm>S</fnm></au>
+  </aug>
+  <source>Phytochemistry</source>
+  <pubdate>2004</pubdate>
+  <volume>65</volume>
+  <issue>19</issue>
+  <fpage>2711</fpage>
+  <lpage>-2717</lpage>
+</bibl>
+
+<bibl id="B11">
+  <title><p>HOSE - novel substructure code</p></title>
+  <aug>
+    <au><snm>Bremser</snm><fnm>W</fnm></au>
+  </aug>
+  <source>Anal Chem Acta</source>
+  <pubdate>1977</pubdate>
+  <volume>103</volume>
+  <fpage>355</fpage>
+  <lpage>-365</lpage>
+</bibl>
+
+<bibl id="B12">
+  <title><p>Expectation Ranges of 13 C NMR Chemical Shifts</p></title>
+  <aug>
+    <au><snm>Bremser</snm><fnm>W</fnm></au>
+  </aug>
+  <source>Magn. Reson. Chem</source>
+  <pubdate>1985</pubdate>
+  <volume>23</volume>
+  <fpage>271</fpage>
+  <lpage>275</lpage>
+</bibl>
+
+<bibl id="B13">
+  <title><p>Quick meth for Anti-Bredt Structure Dectection</p></title>
+  <aug>
+    <au><snm>Nuzillard</snm><fnm>J M</fnm></au>
+  </aug>
+  <source>J. Chem. Inf. Comput. Sci</source>
+  <pubdate>1994</pubdate>
+  <fpage>723</fpage>
+  <lpage>724</lpage>
+</bibl>
+
+</refgrp>
+} % end of \BMCxmlcomment
